@@ -1,0 +1,10 @@
+pack\aplicaciowebllibreria\servlets\EliminarLlibre.class
+TestDBConnection.class
+pack\aplicaciowebllibreria\servlets\ModificarLlibre.class
+pack\aplicaciowebllibreria\servlets\ServletProva.class
+pack\aplicaciowebllibraria\Connexio.class
+pack\aplicaciowebllibreria\servlets\InsertarLlibre.class
+pack\aplicaciowebllibraria\JakartaRestConfiguration.class
+pack\aplicaciowebllibraria\TestDBConnection.class
+pack\aplicaciowebllibraria\resources\JakartaEE10Resource.class
+pack\aplicaciowebllibreria\servlets\Consulta.class
